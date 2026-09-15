@@ -4,8 +4,7 @@ ROS 2 package for **online estimation of a robot arm's Jacobian** — without a
 precise kinematic model — using a fixed (eye-to-hand) camera watching the
 end-effector. Built as a senior capstone project.
 
-*"ObserVo" (observe + servo) is the project's short name, used in the CMU
-application, demo video, and portfolio writeup. The ROS 2 package itself
+*"ObserVo" (observe + servo) is the project's short name, used in the demo video, and portfolio writeup. The ROS 2 package itself
 keeps the descriptive name `jacobian_online_estimator`.*
 
 ## Core idea
